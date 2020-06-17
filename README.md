@@ -66,4 +66,4 @@ This design sets my keyboard apart from traditional QWERTY-styled IPA keyboards 
 
 ### "Comments (optional): Is there anything else you would like us to know? (500 words or less)"
 
-*(something about `/** Markup */` not working so I kept them as `/* comments */` but I didn't save what I wrote because it was so last-moment)*
+*(something about "`/** Markup */` isn't working so I kept them as `/* comments */`" but I didn't save what I wrote because it was so last-moment)*
