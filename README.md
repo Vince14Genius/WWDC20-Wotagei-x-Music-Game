@@ -6,7 +6,7 @@ A visual simulator for Japanese glowstick dancing ("Wotagei"), plus a partial "r
 
 ## Update June 16, 2020
 
-idk how the fuck they accepted this highly incomplete submission but they did
+idk how the fuck they accepted this highly incomplete submission but they did lol
 
 ## Original Comment
 
